@@ -1,3 +1,22 @@
 // Place all the styles related to the users controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.error-message {
+	margin-left: 45px;
+	margin-top: 68px;
+	width: auto;
+	height: auto;
+	padding: 12px;
+	background-color: #F3E9D2;
+	position: absolute;
+	border-radius: 3px;
+}
+
+.error-message h2{
+	color: #114B5F;
+}
+
+.error-message li{
+	color: #1A936F;
+}
